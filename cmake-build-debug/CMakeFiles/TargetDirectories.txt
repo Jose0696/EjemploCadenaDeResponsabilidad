@@ -1,0 +1,3 @@
+C:/Users/Jose/CLionProjects/investigacion cadena de responsabilidad/cmake-build-debug/CMakeFiles/investigacion_cadena_de_responsabilidad.dir
+C:/Users/Jose/CLionProjects/investigacion cadena de responsabilidad/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jose/CLionProjects/investigacion cadena de responsabilidad/cmake-build-debug/CMakeFiles/rebuild_cache.dir

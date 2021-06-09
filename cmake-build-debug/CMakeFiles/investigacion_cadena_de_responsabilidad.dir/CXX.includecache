@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jose/CLionProjects/investigacion cadena de responsabilidad/Aprobador.h
+Compra.h
+C:/Users/Jose/CLionProjects/investigacion cadena de responsabilidad/Compra.h
+
+C:/Users/Jose/CLionProjects/investigacion cadena de responsabilidad/Compra.h
+iostream
+-
+
+C:/Users/Jose/CLionProjects/investigacion cadena de responsabilidad/Comprador.cpp
+Comprador.h
+C:/Users/Jose/CLionProjects/investigacion cadena de responsabilidad/Comprador.h
+
+C:/Users/Jose/CLionProjects/investigacion cadena de responsabilidad/Comprador.h
+Aprobador.h
+C:/Users/Jose/CLionProjects/investigacion cadena de responsabilidad/Aprobador.h
+
